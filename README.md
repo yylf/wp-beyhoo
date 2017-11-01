@@ -1,2 +1,0 @@
-# wp-beyhoo
-beyhoo webapp
